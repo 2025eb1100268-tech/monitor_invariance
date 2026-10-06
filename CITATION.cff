@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these checks, please cite the paper that describes them."
+title: "monitor_invariance: checks for stateful runtime monitors of AI agents"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: Modgil
+    given-names: Manvendra
+# Filled in at release: the public repository URL and the tag date.
+repository-code: "https://github.com/OWNER/monitor_invariance"
+date-released: "2026-10-07"
+keywords:
+  - runtime monitoring
+  - AI control
+  - CUSUM
+  - evidence floor
+preferred-citation:
+  type: article
+  title: "SoK: Clocks, Counts, and Evidence Floors in Stateful Runtime Monitoring of AI Agents"
+  authors:
+    - family-names: Modgil
+      given-names: Manvendra
+  year: 2026
+  status: in-preparation
+references:
+  - type: article
+    title: "Bistable by Construction: Wall-Clock-Calibrated State Monitors Have No Moment-Detection Regime at Agent Cadence"
+    authors:
+      - family-names: Modgil
+        given-names: Manvendra
+    year: 2026
+    identifiers:
+      - type: other
+        value: "arXiv:2606.19386"
