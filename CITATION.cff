@@ -7,9 +7,8 @@ license: Apache-2.0
 authors:
   - family-names: Modgil
     given-names: Manvendra
-# Filled in at release: the public repository URL and the tag date.
-repository-code: "https://github.com/OWNER/monitor_invariance"
-date-released: "2026-10-07"
+repository-code: "https://github.com/2025eb1100268-tech/monitor_invariance"
+date-released: "2026-10-09"
 keywords:
   - runtime monitoring
   - AI control

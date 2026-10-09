@@ -18,6 +18,9 @@ classifiers = [
     "Topic :: Scientific/Engineering",
 ]
 
+[project.urls]
+Repository = "https://github.com/2025eb1100268-tech/monitor_invariance"
+
 [project.optional-dependencies]
 test = ["pytest>=7"]
 
