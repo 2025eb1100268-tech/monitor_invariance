@@ -256,8 +256,8 @@ expected evidence is below the floor; and the sign audit's verdicts.
 
 See `CITATION.cff`. The checks are described in:
 
-Modgil, M. (2026). *SoK: Clocks, Counts, and Evidence Floors in Stateful
-Runtime Monitoring of AI Agents.* Forthcoming.
+Modgil, M. (2026). *Clocks, Counts, and Evidence Floors in Stateful Runtime
+Monitoring of AI Agents.* Forthcoming.
 
 Modgil, M. (2026). *Bistable by Construction: Wall-Clock-Calibrated State
 Monitors Have No Moment-Detection Regime at Agent Cadence.* arXiv:2606.19386.

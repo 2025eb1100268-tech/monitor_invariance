@@ -16,7 +16,7 @@ keywords:
   - evidence floor
 preferred-citation:
   type: article
-  title: "SoK: Clocks, Counts, and Evidence Floors in Stateful Runtime Monitoring of AI Agents"
+  title: "Clocks, Counts, and Evidence Floors in Stateful Runtime Monitoring of AI Agents"
   authors:
     - family-names: Modgil
       given-names: Manvendra
